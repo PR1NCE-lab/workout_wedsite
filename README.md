@@ -1,7 +1,7 @@
 ### checkout following `link for live demo` -> 
 https://wourkout-buddy.netlify.app/
 
-## `NOTE` : Please note that this website utilizes the free version of API's, which has a limited number of requests per month. As a result, certain functions on the site 'may not be fully operational or available at all times'.
+## `NOTE` : Please note that this website utilizes the free version of API's, which has a limited number of requests per month. As a result, certain functions on the site may not be fully operational or available at all times.
 
 # Getting Started with Create React App
 
